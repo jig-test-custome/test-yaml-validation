@@ -1,4 +1,4 @@
-key:      value_with_too_many_spaces
+key: value_with_too_many_spaces
 list_item:
-  -    spaced_item
-  - second_item
+    - spaced_item
+    - second_item
