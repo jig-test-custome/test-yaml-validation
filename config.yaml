@@ -1,6 +1,4 @@
-key: value
-messy_list:
-  - item1
- - item2
-      - item3
-extra_spaces:    too_many
+key:      value_with_too_many_spaces
+list_item:
+  -    spaced_item
+  - second_item
