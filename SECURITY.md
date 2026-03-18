@@ -1,9 +1,3 @@
-# JIG-START #
-# Security Policy
-
-If you discover a security vulnerability, please report it to us at kpatel@rackner.com.
-# JIG-END #
-
 <!-- JIG:START -->
 > [!IMPORTANT]
 > **Managed by Jig** — Auto-generated compliance content. Manual edits _inside this block_ will be overwritten on next sync.
